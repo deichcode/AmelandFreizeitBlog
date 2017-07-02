@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article class="post">
+
+    <h1 class="post-title">{{ page.title }}</h1>
+
+    <p class="post-meta">
+        <time datetime="{{ page.date | date: " %Y-%m-%d " }}">{{ page.date | date: "%d-%m-%Y" }}</time> {% if page.author %} &nbsp;/&nbsp;
+        <span>{{ page.author }}</span> {% endif %}
+    </p>
+
+    <div class="post-content">
+
+        {{ content }}
+
+        <div class="post-navigation">
+
+            {% if page.next.url %}
+            <div class="post-navigation-next">
+                <a class="link-to-post" href="{{ page.next.url }}">
+                    <span class="link-to-post__title">< {{ page.next.title }}</span>
+                </a>
+            </div>
+            {% endif %}
+            {% if page.previous.url %}
+            <div class="post-navigation-previous">
+                <a class="link-to-post" href="{{ page.previous.url }}">
+                    <span class="link-to-post__title">{{ page.previous.title }} ></span>
+                </a>
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+</article>

@@ -1,0 +1,14 @@
+---
+bg: "lighthouse.jpg"
+layout: default
+crawlertitle: "Ameland Freizeit"
+title: "Ameland Freizeit"
+summary: "der Pfarreiengemeinschaft St. Matthias Neuwied"
+---
+
+{% for post in site.posts limit: 5 %}
+  <article class="index-page">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    {{ post.excerpt }}
+  </article>
+{% endfor %}
