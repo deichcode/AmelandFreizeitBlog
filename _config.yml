@@ -11,7 +11,7 @@ email: info@ameland-freizeit.de
 description: > # this means to ignore newlines until "baseurl:"
   Wie viele andere Gruppen auch, zieht es uns jedes Jahr zweimal nach Ameland.
   Im Sommer mit Kindern im Alter von 9-13 Jahren, mit Betreuerinnen und Betreuern und der Küchenmannschaft. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/AmelandFreizeitBlog" # the subpath of your site, e.g. /blog
 lang: "de"
 url: "http://localhost:4001" # the base hostname & protocol for your site
 port: 4001
