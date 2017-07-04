@@ -18,14 +18,14 @@ layout: default
 
             {% if page.next.url %}
             <div class="post-navigation-next">
-                <a class="link-to-post" href="{{ page.next.url }}">
+                <a class="link-to-post" href="{{site.baseurl}}{{ page.next.url }}">
                     <span class="link-to-post__title">< {{ page.next.title }}</span>
                 </a>
             </div>
             {% endif %}
             {% if page.previous.url %}
             <div class="post-navigation-previous">
-                <a class="link-to-post" href="{{ page.previous.url }}">
+                <a class="link-to-post" href="{{site.baseurl}}{{ page.previous.url }}">
                     <span class="link-to-post__title">{{ page.previous.title }} ></span>
                 </a>
             </div>

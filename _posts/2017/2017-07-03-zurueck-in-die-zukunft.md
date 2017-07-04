@@ -19,4 +19,4 @@ Jetzt werde ich mich mal schnell in den Rucksack verkriechen, nicht dass sie mic
 Alles Liebe
 Euer Sammy
 
-[![Ankunft am Fähranleger]({{ site.images }}/posts/2017/07_03.jpg)]({{ site.images }}/posts/2017/07_03.jpg)
+[![Ankunft am Fähranleger]({{site.baseurl}}{{site.images }}/posts/2017/07_03.jpg)]({{site.baseurl}}{{site.images }}/posts/2017/07_03.jpg)

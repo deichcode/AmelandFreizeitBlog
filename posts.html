@@ -11,7 +11,7 @@ layout: page
 <ul class="year">
   {% for post in posts %}
     {% if post.tags contains t %}
-      <li><a href="{{ post.url | prepend: site.baseurl | inspect}}">{{ post.title }}</a></li>
+      <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>

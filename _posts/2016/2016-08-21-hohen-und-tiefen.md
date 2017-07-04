@@ -25,4 +25,4 @@ Also auch mit euch in die Federn. Husch husch!
 
 Träumt Süß. Euer Sammy!
 
-[![Gruppenfoto]({{ site.images }}/posts/2016/08_21.jpg)]({{ site.images }}/posts/2016/08_21.jpg)
+[![Gruppenfoto]({{site.baseurl}}{{site.images }}/posts/2016/08_21.jpg)]({{site.baseurl}}{{site.images }}/posts/2016/08_21.jpg)

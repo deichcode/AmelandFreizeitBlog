@@ -21,4 +21,4 @@ Was soll ich sagen… gähn… es ist mal wieder spät geworden und in den Gasse
 
 Habt eine gute Nacht. Wir lesen uns morgen.
 
-[![Gruppenbild]({{ site.images }}/posts/2016/08_19.jpg)]({{ site.images }}/posts/2016/08_19.jpg)
+[![Gruppenbild]({{site.baseurl}}{{site.images }}/posts/2016/08_19.jpg)]({{site.baseurl}}{{site.images }}/posts/2016/08_19.jpg)

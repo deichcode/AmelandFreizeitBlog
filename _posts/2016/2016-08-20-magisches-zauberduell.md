@@ -21,4 +21,4 @@ Also liebe Blogleser, Sammy verschwindet nun ins Bett – ich habe schon wieder 
 
 Bis morgen!
 
-[![Singstar]({{ site.images }}/posts/2016/08_20.jpg)]({{ site.images }}/posts/2016/08_20.jpg)
+[![Singstar]({{site.baseurl}}{{site.images }}/posts/2016/08_20.jpg)]({{site.baseurl}}{{site.images }}/posts/2016/08_20.jpg)
