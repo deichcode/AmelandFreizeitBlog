@@ -1,6 +1,7 @@
 ---
+bg: posts/2017/07_03_b.jpg
 layout: post
-title:  Die Zeitreise beginngt
+title:  Die Zeitreise beginnt
 crawlertitle: Die Zeitreise beginnt
 summary: Die Zeitreise beginnt
 date: 03. Juli 2017 23:00
@@ -19,3 +20,5 @@ Gestärkt von leckeren Spaghetti Napoli ging es dann zum letzten Programmpunkt d
 
 Gäääääähn Bis morgen
 Sammy
+
+[![Der Weg nach De Westhoek]({{site.baseurl}}{{site.images }}/posts/2017/07_03_b.jpg)]({{site.baseurl}}{{site.images }}/posts/2017/07_03_b.jpg)
