@@ -11,4 +11,5 @@ author: Sören Schröder
 
 Liebe Ameland-Freunde!
 Wir haben eine neue Website. Ihr findet uns und alle aktuellen Informationen nun unter [ameland-neuwied.de](https://ameland-neuwied.de). Dort erhaltet ihr in Zukunft alle aktuellen Informationen über kommende und aktuelle Freizeiten.
+
 Viele Grüße von eurem Ameland-Team
